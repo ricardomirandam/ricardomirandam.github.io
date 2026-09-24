@@ -6,7 +6,7 @@ title: ""
 
 ::: {.g-col-4}
 
-![](images/asa.jpg){width=200%}
+![](images/asa.jpg){width=100%}
 
 :::
 
@@ -20,9 +20,9 @@ Duke University
 
 ::: {.bio}
 
-I am a PhD candidate at Duke University. My main research area is econometrics. My job market paper combines identification and inference results to obtain a sharp, general test of instrument validity.  
+I am a PhD candidate at Duke University. My main research area is econometrics. My job market paper combines identification and inference results to develop a sharp, general test of instrument validity.  
 
-My secondary research applies quasi-experimental and structural methods to empirical questions about human capital and health in middle-income countries.
+My secondary research applies quasi-experimental and structural methods to questions about human capital and health in middle-income countries.
 
 Please contact me at: [ricardo.e.miranda@duke.edu](mailto:ricardo.e.miranda@duke.edu)
 
@@ -49,30 +49,29 @@ Please contact me at: [ricardo.e.miranda@duke.edu](mailto:ricardo.e.miranda@duke
 
 ### [Retail globalization, households' diets and the effectiveness of sin-food taxes](files/Walmex.pdf) (With Emilio Gutierrez, Beata Javorcik, Wolfgang Keller, Faqiang Li, and Kensuke Teshima)
 
-### [Internalities and the effectiveness of taxing sugar-sweetened beverages](files/SugarAddiction.pdf) (With Paul Gertler, Tadeja Gracner and Enrique Seira)
+### [Internalities and the effectiveness of taxing sugar-sweetened beverages](files/SugarAddiction.pdf) (With Paul Gertler, Tadeja Gracner, and Enrique Seira)
 
-## [**CV**](files/CV)
+## CV {#cv}
+
+[Download CV](files/CV.pdf)
  
 ## Teaching {#teaching}
 
-### Main instructor:
-- Advanced Microeconomics I (B.A.), Spring 2023, ITAM.<br>
+### Main instructor
+- Advanced Microeconomics I (B.A.), Spring 2023, ITAM.
 - Advanced Microeconomics I (B.A.), Spring 2022, ITAM.
 
-### Teaching assistant: 
+### Teaching assistant
 
-- ECON  210  Macroeconomic Theory (B.A.), Spring 2023, Duke University.<br>
-- ECON 608 Introduction to Econometrics (Master's), Fall 2022,  Duke
+- ECON 210 Macroeconomic Theory (B.A.), Spring 2023, Duke University.
+- ECON 608 Introduction to Econometrics (Master's), Fall 2022, Duke University.
 
 ## Education {#education}
 
-- Ph.D. in Economics, Duke University, expected April 2027. <br>
-  
-- B.S. in Economics, ITAM, 2019, with honors. <br>
-
-- Completed coursework toward an M.A. in Economic Theory, ITAM. <br>
-  
-- Completed coursework toward a B.A. in Applied Mathematics, ITAM. <br>
+- Ph.D. in Economics, Duke University, expected April 2027. 
+- B.S. in Economics, ITAM, 2019, with honors. 
+- Completed coursework toward an M.A. in Economic Theory, ITAM. 
+- Completed coursework toward a B.A. in Applied Mathematics, ITAM. 
 
 ## References {#references}
 
@@ -80,7 +79,7 @@ Please contact me at: [ricardo.e.miranda@duke.edu](mailto:ricardo.e.miranda@duke
 
 ::: {.g-col-6}
 
-**Adam Rosen (Committee chair)**  
+**Adam Rosen (Committee Chair)**  
 Professor of Economics, Duke University  
 [adam.rosen@duke.edu](mailto:adam.rosen@duke.edu)
 
@@ -106,7 +105,7 @@ Professor of Economics, Duke University
 
 :::
 
-
+:::
 
 
 
