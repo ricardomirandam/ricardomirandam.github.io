@@ -1,0 +1,25 @@
+project:
+  type: website
+  resources:
+    - images/**
+
+website:
+  title: "Ricardo E. Miranda"
+
+  navbar:
+    left:
+      - href: "#research"
+        text: Research
+      - href: "#cv"
+        text: CV
+      - href: "#teaching"
+        text: Teaching
+
+  page-footer:
+    center: "© 2026 Ricardo E. Miranda"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

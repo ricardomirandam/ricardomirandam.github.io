@@ -1,0 +1,115 @@
+---
+title: ""
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+
+![](images/asa.jpg){width=200%}
+
+:::
+
+
+::: {.g-col-8}
+
+# Ricardo E. Miranda
+
+**PhD Candidate in Economics**  
+Duke University
+
+::: {.bio}
+
+I am a PhD candidate at Duke University. My main research area is econometrics. My job market paper combines identification and inference results to obtain a sharp, general test of instrument validity.  
+
+My secondary research applies quasi-experimental and structural methods to empirical questions about human capital and health in middle-income countries.
+
+Please contact me at: [ricardo.e.miranda@duke.edu](mailto:ricardo.e.miranda@duke.edu)
+
+:::
+
+:::
+
+:::
+
+---
+
+## Research — Econometrics {#research}
+
+### <span class="jmp-label">Job Market Paper:</span> [Sharp tests of instrument validity for general outcome distributions](files/JMP.pdf) 
+
+
+### [Weighted Difference-in-Differences Using Text Embeddings](files/Embeddings.pdf) (With Michael Pollmann)
+
+## Research — Applied Microeconomics 
+
+
+### [Preschool or Parenting? Helping disadvantaged minority children catch up in skills](files/Bulgaria.pdf) (With Elise Huilery, Joost de Laat, and Paul Gertler)
+
+
+### [Retail globalization, households' diets and the effectiveness of sin-food taxes](files/Walmex.pdf) (With Emilio Gutierrez, Beata Javorcik, Wolfgang Keller, Faqiang Li, and Kensuke Teshima)
+
+### [Internalities and the effectiveness of taxing sugar-sweetened beverages](files/SugarAddiction.pdf) (With Paul Gertler, Tadeja Gracner and Enrique Seira)
+
+## [**CV**](files/CV)
+ 
+## Teaching {#teaching}
+
+### Main instructor:
+- Advanced Microeconomics I (B.A.), Spring 2023, ITAM.<br>
+- Advanced Microeconomics I (B.A.), Spring 2022, ITAM.
+
+### Teaching assistant: 
+
+- ECON  210  Macroeconomic Theory (B.A.), Spring 2023, Duke University.<br>
+- ECON 608 Introduction to Econometrics (Master's), Fall 2022,  Duke
+
+## Education {#education}
+
+- Ph.D. in Economics, Duke University, expected April 2027. <br>
+  
+- B.S. in Economics, ITAM, 2019, with honors. <br>
+
+- Completed coursework toward an M.A. in Economic Theory, ITAM. <br>
+  
+- Completed coursework toward a B.A. in Applied Mathematics, ITAM. <br>
+
+## References {#references}
+
+::: {.grid}
+
+::: {.g-col-6}
+
+**Adam Rosen (Committee chair)**  
+Professor of Economics, Duke University  
+[adam.rosen@duke.edu](mailto:adam.rosen@duke.edu)
+
+**Matt Masten**  
+Associate Professor of Economics, Duke University  
+[matt.masten@duke.edu](mailto:matt.masten@duke.edu)
+
+**Paul Gertler**  
+Li Ka Shing Professor of Economics, UC Berkeley  
+[gertler@berkeley.edu](mailto:gertler@berkeley.edu)
+
+:::
+    
+::: {.g-col-6}
+
+**Michael Pollmann**  
+Assistant Professor of Economics, Duke University  
+[michael.pollmann@duke.edu](mailto:michael.pollmann@duke.edu)
+
+**Arnaud Maurel**  
+Professor of Economics, Duke University  
+[arnaud.maurel@duke.edu](mailto:arnaud.maurel@duke.edu)
+
+:::
+
+
+
+
+
+
+
+
