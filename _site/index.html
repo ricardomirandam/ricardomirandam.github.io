@@ -135,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 Duke University</p>
 <div class="bio">
 <p>I am a PhD candidate at Duke University. My main research area is econometrics. My job market paper combines identification and inference results to develop a sharp, general test of instrument validity.</p>
-<p>My secondary research applies quasi-experimental and structural methods to questions about human capital and health in middle-income countries.</p>
+<p>My secondary research applies quasi-experimental and structural methods to questions on human capital and health in middle-income countries.</p>
 <p>Please contact me at: <a href="mailto:ricardo.e.miranda@duke.edu">ricardo.e.miranda@duke.edu</a></p>
 </div>
 </section>
@@ -171,8 +171,8 @@ Duke University</p>
 <section id="main-instructor" class="level3">
 <h3 class="anchored" data-anchor-id="main-instructor">Main instructor</h3>
 <ul>
-<li>Advanced Microeconomics I (B.A.), Spring 2023, ITAM.</li>
-<li>Advanced Microeconomics I (B.A.), Spring 2022, ITAM.</li>
+<li>Advanced Microeconomics I (B.A.), Summer 2023, ITAM.</li>
+<li>Advanced Microeconomics I (B.A.), Summer 2022, ITAM.</li>
 </ul>
 </section>
 <section id="teaching-assistant" class="level3">
@@ -187,6 +187,7 @@ Duke University</p>
 <h2 class="anchored" data-anchor-id="education">Education</h2>
 <ul>
 <li>Ph.D.&nbsp;in Economics, Duke University, expected April 2027.</li>
+<li>M.A.&nbsp;in Economics, Duke University, expected April 2027.</li>
 <li>B.S. in Economics, ITAM, 2019, with honors.</li>
 <li>Completed coursework toward an M.A.&nbsp;in Economic Theory, ITAM.</li>
 <li>Completed coursework toward a B.A. in Applied Mathematics, ITAM.</li>
@@ -293,7 +294,7 @@ Professor of Economics, Duke University<br>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/ricardomirandam\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
