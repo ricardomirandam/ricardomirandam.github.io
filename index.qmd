@@ -6,7 +6,7 @@ title: ""
 
 ::: {.g-col-4}
 
-![](images/asa.jpg){width=100%}
+![](images/asa.JPG){width=100%}
 
 :::
 
@@ -22,7 +22,7 @@ Duke University
 
 I am a PhD candidate at Duke University. My main research area is econometrics. My job market paper combines identification and inference results to develop a sharp, general test of instrument validity.  
 
-My secondary research applies quasi-experimental and structural methods to questions about human capital and health in middle-income countries.
+My secondary research applies quasi-experimental and structural methods to questions on human capital and health in middle-income countries.
 
 Please contact me at: [ricardo.e.miranda@duke.edu](mailto:ricardo.e.miranda@duke.edu)
 
@@ -56,10 +56,9 @@ Please contact me at: [ricardo.e.miranda@duke.edu](mailto:ricardo.e.miranda@duke
 [Download CV](files/CV.pdf)
  
 ## Teaching {#teaching}
-
 ### Main instructor
-- Advanced Microeconomics I (B.A.), Spring 2023, ITAM.
-- Advanced Microeconomics I (B.A.), Spring 2022, ITAM.
+- Advanced Microeconomics I (B.A.), Summer 2023, ITAM.
+- Advanced Microeconomics I (B.A.), Summer 2022, ITAM.
 
 ### Teaching assistant
 
@@ -69,6 +68,7 @@ Please contact me at: [ricardo.e.miranda@duke.edu](mailto:ricardo.e.miranda@duke
 ## Education {#education}
 
 - Ph.D. in Economics, Duke University, expected April 2027. 
+- M.A. in Economics, Duke University, expected April 2027. 
 - B.S. in Economics, ITAM, 2019, with honors. 
 - Completed coursework toward an M.A. in Economic Theory, ITAM. 
 - Completed coursework toward a B.A. in Applied Mathematics, ITAM. 
