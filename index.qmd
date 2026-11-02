@@ -22,7 +22,9 @@ Duke University
 
 I am a PhD candidate at Duke University. My main research area is econometrics. My job market paper combines identification and inference results to develop a sharp, general test of instrument validity.  
 
-My secondary research applies quasi-experimental and structural methods to questions on human capital and health in middle-income countries.
+My secondary research investigates questions on human capital and health in middle-income countries.
+
+I am on the 2026-2027 job market.
 
 Please contact me at: [ricardo.e.miranda@duke.edu](mailto:ricardo.e.miranda@duke.edu)
 
@@ -33,23 +35,27 @@ Please contact me at: [ricardo.e.miranda@duke.edu](mailto:ricardo.e.miranda@duke
 :::
 
 ---
+::: {.econometrics-research}
 
 ## Research — Econometrics {#research}
 
-### <span class="jmp-label">Job Market Paper:</span> [Sharp tests of instrument validity for general outcome distributions](files/JMP.pdf) 
-
+### <span class="jmp-label">Job Market Paper:</span> [Sharp tests of instrument validity for general outcome distributions](files/JMP.pdf) [   (Online appendix)](files/OnlineAppendix.pdf) 
 
 ### Weighted Difference-in-Differences Using Text Embeddings (With Michael Pollmann)
 
-## Research — Applied Microeconomics 
+:::
 
+::: {.applied-research}
+
+## Research — Applied Microeconomics
 
 ### [Preschool or Parenting? Helping disadvantaged minority children catch up in skills](files/Bulgaria.pdf) (With Elise Huilery, Joost de Laat, and Paul Gertler)
-
 
 ### [Retail globalization, households' diets and the effectiveness of sin-food taxes](files/Walmex.pdf) (With Emilio Gutierrez, Beata Javorcik, Wolfgang Keller, Faqiang Li, and Kensuke Teshima)
 
 ### [Internalities and the effectiveness of taxing sugar-sweetened beverages](files/SugarAddiction.pdf) (With Paul Gertler, Tadeja Gracner, and Enrique Seira)
+
+:::
 
 ## CV {#cv}
 
