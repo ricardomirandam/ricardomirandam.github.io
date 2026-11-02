@@ -32,3 +32,20 @@ a:hover,
 a:active {
   color: #002147;
 }
+
+.applied-research h3 {
+    font-size: 1.05rem;
+}
+
+.econometrics-research h3 {
+    font-size: 1.4rem;
+}
+
+.econometrics-research .jmp-label {
+    font-size: 1.4rem;
+}
+
+/* All section titles except Econometrics */
+h2:not(.econometrics-research h2) {
+    font-size: 1.4rem;
+}
