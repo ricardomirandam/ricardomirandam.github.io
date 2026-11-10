@@ -39,9 +39,9 @@ Please contact me at: [ricardo.e.miranda@duke.edu](mailto:ricardo.e.miranda@duke
 
 ## Research — Econometrics {#research}
 
-### <span class="jmp-label">Job Market Paper:</span> [Sharp tests of instrument validity for general outcome distributions](files/JMP.pdf) [   (Online appendix)](files/OnlineAppendix.pdf) 
+### <span class="jmp-label">Job Market Paper:</span> [Sharp tests of instrument validity for general outcome distributions.](files/JMP.pdf) &mdash; ([Online appendix.](files/OnlineAppendix.pdf))
 
-### [Weighted Difference-in-Differences Using Text Embeddings](files/Embeddings.pdf) (With Michael Pollmann)
+### [Weighted Difference-in-Differences Using Text Embeddings.](files/Embeddings.pdf) (With Michael Pollmann)
 
 :::
 
@@ -49,17 +49,17 @@ Please contact me at: [ricardo.e.miranda@duke.edu](mailto:ricardo.e.miranda@duke
 
 ## Research — Applied Microeconomics
 
-### [Preschool or Parenting? Helping disadvantaged minority children catch up in skills](files/Bulgaria.pdf) (With Elise Huilery, Joost de Laat, and Paul Gertler)
+### [Preschool or Parenting? Helping disadvantaged minority children catch up in skills.](files/Bulgaria.pdf) (With Elise Huilery, Joost de Laat, and Paul Gertler)
 
-### [Retail globalization, households' diets and the effectiveness of sin-food taxes](files/Walmex.pdf) (With Emilio Gutierrez, Beata Javorcik, Wolfgang Keller, Faqiang Li, and Kensuke Teshima)
+### [Retail globalization, households' diets and the effectiveness of sin-food taxes.](files/Walmex.pdf) (With Emilio Gutierrez, Beata Javorcik, Wolfgang Keller, Faqiang Li, and Kensuke Teshima)
 
-### [Internalities and the effectiveness of taxing sugar-sweetened beverages](files/SugarAddiction.pdf) (With Paul Gertler, Tadeja Gracner, and Enrique Seira)
+### [Internalities and the effectiveness of taxing sugar-sweetened beverages.](files/SugarAddiction.pdf) (With Paul Gertler, Tadeja Gracner, and Enrique Seira)
 
 :::
 
 ## CV {#cv}
 
-[Download CV](files/CV.pdf)
+[Download CV.](files/CV.pdf)
  
 ## Teaching {#teaching}
 ### Main instructor
